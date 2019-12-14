@@ -7,7 +7,19 @@ This TypeScript Template is a starter file for TypeScript file. TypeScript is ba
 
 
 
-## Needed
+## Use
+
+To activate TypeScript, go to the json file and enter
+
+```powershell
+tsc -w
+```
+
+in terminal
+
+
+
+## Required
 
 * Node.js
 * typescript (installed using npm)
