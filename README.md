@@ -3,7 +3,7 @@
 
 ## About
 
-This TypeScript Template is a starter file for TypeScript file. TypeScript is basically the strongly typed version of JavaScript. 
+This TypeScript Template is a starter file for TypeScript project. TypeScript is basically the strongly typed version of JavaScript. 
 
 
 
@@ -30,7 +30,7 @@ in terminal
 
 ```typescript
 function main() {
-    // chose any number
+    // choose any number
     let number: number = 1;
 
     // prints
